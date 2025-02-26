@@ -28,3 +28,13 @@
 tensorboardで経過を確認する場合は  
 `tensorboard --logdir log`    
 を実行すると見れると思います．
+
+# 使用したパッケージ
+* python = 3.10.14
+* pytorch (CUDA 12.4)
+* pandas = 2.2.1
+* tqdm = 4.66.4
+* tensorboard = 2.12.1
+
+
+
